@@ -9,7 +9,7 @@ Implemented SARSA algorithm using TensorFlow, input is state of environment - 10
 One hidden layer with 64 nodes, using ReLU for nonlinearity, TensorFlow's Adam optimizer.
 
 ## Dependencies required
-TensorFlow, Pygame(for visual display of results)
+PyTorch, Pygame(for visual display of results)
 
 ## Usage
 To train and export model to file model.pt run main.py 
